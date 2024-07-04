@@ -1,5 +1,7 @@
 # Educar
 
+O Educar é um aplicativo inovador de aprendizado que torna o estudo mais interativo e divertido. Projetado para estudantes, o Educar oferece uma ampla variedade de conteúdos e perguntas educacionais, cobrindo computação em nuvem.
+
 Funcionalidades do Aplicativo
  * Organizado por categorias;
  * Conteúdos em carrosel;
